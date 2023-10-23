@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldrians&label=Profile%20views&color=0e75b6&style=flat" alt="eldrians" /> </p>
 
-- 🔭 I’m currently working on **GITS Indonesia as Software Engineer**
-
-- 🌱 I’m currently learning **VueJS and Blockchain**
+- 🌱 I’m currently mastering **Angular, Next and Google Workspace**
 
 - 📫 How to reach me **eldrianaxel1@gmail.com**
 
